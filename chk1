@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Myn</title>
+        <link rel="icon" type="image/x-icon" href="imagers/myn.ico">
+      <a href="https://moviesmod.vip/" target="_blank" title="go to movie mod">visit moviemod</a>
+      <a href="mailto: anumalanarendra8@gmail.com">end email</a>
+    </head>
+    <body>
+        <h1>Hello, world!</h1>
+        <p>This is my first web page.</p>
+        <p>It contains a 
+             <strong>main heading</strong> and <em> paragraph </em>.
+        </p>
+        <p>have a look</p>
+        <h2>check with it</h2>
+        <table>
+  <tr>
+    <th>Person 1</th>
+    <th>Person 2</th>
+    <th>Person 3</th>
+  </tr>
+  <tr>
+    <td>Emil</td>
+    <td>Tobias</td>
+    <td>Linus</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>14</td>
+    <td>10</td>
+  </tr>
+</table>
+    </body>
+</html>
